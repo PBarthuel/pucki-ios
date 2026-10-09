@@ -1,5 +1,5 @@
 // swift-tools-version:5.9
-// Pucki SDK 1.0.1 — généré par scripts/publish-ios.sh, ne pas éditer à la main.
+// Pucki SDK 1.0.2 — généré par scripts/publish-ios.sh, ne pas éditer à la main.
 import PackageDescription
 
 let package = Package(
@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Pucki",
-            url: "https://github.com/PBarthuel/pucki-ios/releases/download/1.0.1/Pucki-1.0.1.xcframework.zip",
-            checksum: "20e705430ff0be9f0973b7b166c42b52b3d82eec3fed8c8988b2934cf399906a"
+            url: "https://github.com/PBarthuel/pucki-ios/releases/download/1.0.2/Pucki-1.0.2.xcframework.zip",
+            checksum: "3f39af606da0f75820c25b821b0e8924ce678d5a861cc479e5db702c9f89df38"
         )
     ]
 )
